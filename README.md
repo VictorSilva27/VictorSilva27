@@ -36,9 +36,10 @@
   <a href="https://www.linkedin.com/in/victor-silva-52b085213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
   <a href="https://wa.me/qr/JCBUKAQURSUPC1" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-</div>
+
+ 
   ![Snake animation](https://github.com/VictorSilva27/VictorSilva27/blob/output/github-contribution-grid-snake.svg)
  
-
+</div>
   
   
