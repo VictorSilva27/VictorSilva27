@@ -1,6 +1,8 @@
 <h1>Olá! eu sou Victor Silva😎 </h1>
 
-
+ •  Sou um desenvolvedor junior e quero aprender mais sobre programação💕
+ <br>
+ •  No momento, só estou estudando de forma autônomo👀
 
 <div align="center">
   <a href="https://github.com/VictorSilva27">
@@ -33,9 +35,10 @@
        
   <a href="https://www.linkedin.com/in/victor-silva-52b085213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-
+  <a href="https://wa.me/qr/JCBUKAQURSUPC1" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+</div>
   ![Snake animation](https://github.com/VictorSilva27/VictorSilva27/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+
   
   
