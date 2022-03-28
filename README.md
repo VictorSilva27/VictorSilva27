@@ -1,8 +1,8 @@
 <h1>Olá! eu sou Victor Silva😎 </h1>
 
- •  Sou um desenvolvedor junior e quero aprender mais sobre programação💕
+ •  Sou um dev junior e quero aprender mais sobre programação💕
  <br>
- •  No momento, só estou estudando de forma autônomo👀
+ •  Eu sou estudante da Trybe, sou um Tryber
 
 <div align="center">
   <a href="https://github.com/VictorSilva27">
