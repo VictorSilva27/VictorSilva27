@@ -12,7 +12,7 @@
 
   <h3>Linguagens de Programação</h3>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
  <img align="center" alt="Vic-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
  <img align="center" alt="Vic-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
  <img align="center" alt="Vic-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -26,8 +26,8 @@
    ##
   <h3>Redes Sociais</h3>
   
-  <div> 
-  
+  <div  style="display: inline_block"> 
+ 
   <a href="https://instagram.com/_victor.a.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
  <a href="https://discord.gg/hNSp8Ema" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
