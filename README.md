@@ -1,7 +1,7 @@
 <h1>Olá! eu sou Victor Silva😎 </h1>
 
- •  Dev Junior
- •  Tryber
+ • Dev Junior
+ • Tryber •
 
 <div align="center">
   <a href="https://github.com/VictorSilva27">
