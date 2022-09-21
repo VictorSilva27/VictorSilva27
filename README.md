@@ -1,6 +1,6 @@
 <h1>Olá! eu sou Victor Silva 😎 </h1>
 
- • Dev Junior
+ • Dev Web
  • Tryber •
 
 <div align="center">
