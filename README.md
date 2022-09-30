@@ -12,9 +12,9 @@ class SobreMim extends DesenvolvedorWeb {
   let idade = '18 Anos'
   let local = 'Botucatu, SP';
   
-  const apresenta = `Eu sou ${nome}, tenho ${idade} e atualmente moro na cidade de ${local}.`;
+  const apresentar = `Eu sou ${nome}, tenho ${idade} e atualmente moro na cidade de ${local}.`;
   
-  return apresenta;
+  return apresentar;
 }
 
 class HardSkills extends DesenvolvedorWeb {
@@ -33,7 +33,7 @@ class HardSkills extends DesenvolvedorWeb {
 
 <!-- -------------------------------------------------------------- -->
 
-  ## Redes Sociais
+  ## Contato
   
   <div> 
    
