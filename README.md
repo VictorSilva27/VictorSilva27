@@ -9,17 +9,19 @@ import DesenvolvedorWeb from 'Vitinho';
 
 class SobreMim extends DesenvolvedorWeb {
   const nome = 'Victor Silva';
-  const idade = '18 Anos'
-  const local = 'Botucatu, SP';
+  let idade = '18 Anos'
+  let local = 'Botucatu, SP';
   
-  console.log(`Eu sou ${nome}, tenho ${idade} e atualmente moro na cidade de ${local}.`);
+  const apresenta = `Eu sou ${nome}, tenho ${idade} e atualmente moro na cidade de ${local}.`;
+  
+  return apresenta;
 }
 
 class HardSkills extends DesenvolvedorWeb {
-  linguagens = ['HTML', 'CSS', 'JavaScript', 'SQL', 'Json', 'Java', 'PHP', 'Dart' ];
-  ferramentas = ['React', 'Redux', 'MySQL', 'Node', 'Flutter', 'Xampp', 'Docker'];
-  framework = ['Express', 'Laravel'];
-  appEdit = ['Visual Studio Code', 'Android Studio', 'Eclipse'];
+  let linguagens = ['HTML', 'CSS', 'JavaScript', 'SQL', 'Json', 'Java', 'PHP', 'Dart' ];
+  let ferramentas = ['React', 'Redux', 'MySQL', 'Node', 'Flutter', 'Xampp', 'Docker'];
+  let framework = ['Express', 'Laravel'];
+  let appEdit = ['Visual Studio Code', 'Android Studio', 'Eclipse'];
 }
 ```
 
