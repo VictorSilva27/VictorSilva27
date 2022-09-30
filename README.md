@@ -1,4 +1,4 @@
-# Olá 🤙 eu sou Victor Silva 🤪
+# Olá, eu sou Victor Silva 😎
 
 <p align="center" >
   <img src="perfil.jpeg" width="150px" />
