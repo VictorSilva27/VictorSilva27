@@ -8,15 +8,18 @@
 import DesenvolvedorWeb from 'Vitinho';
 
 class SobreMim extends DesenvolvedorWeb {
-  nome = 'Victor Silva';
-  idade = '18 Anos'
-  local = 'Botucatu, SP';
+  const nome = 'Victor Silva';
+  const idade = '18 Anos'
+  const local = 'Botucatu, SP';
+  
+  console.log(`Eu sou ${nome}, tenho ${idade} e atualmente moro na cidade de ${local}.`);
 }
 
 class HardSkills extends DesenvolvedorWeb {
-  linguagens = ['HTML', 'CSS', 'JavaScript', 'SQL', 'Json', 'Docker', 'PHP', 'Dart' ];
-  ferramentas = ['React', 'Redux', 'MySQL', 'Node.js', 'Flutter', 'Xampp'];
-  framework = ['Express', 'Laravel']
+  linguagens = ['HTML', 'CSS', 'JavaScript', 'SQL', 'Json', 'Java', 'PHP', 'Dart' ];
+  ferramentas = ['React', 'Redux', 'MySQL', 'Node', 'Flutter', 'Xampp', 'Docker'];
+  framework = ['Express', 'Laravel'];
+  appEdit = ['Visual Studio Code', 'Android Studio', 'Eclipse'];
 }
 ```
 
