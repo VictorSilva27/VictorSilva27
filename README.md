@@ -1,4 +1,4 @@
-## Olá 🤙 eu sou Victor Silva 🤪
+# Olá 🤙 eu sou Victor Silva 🤪
 ```js
 import DesenvolvedorWeb from 'Vitinho';
 
@@ -9,8 +9,9 @@ class SobreMim extends DesenvolvedorWeb {
 }
 
 class HardSkills extends DesenvolvedorWeb {
-  linguagens  = ['HTML', 'CSS', 'JavaScript', 'SQL', 'Json', 'Docker' ];
-  ferramentas  = ['React', 'Redux', 'MySQL', 'Node.js'];
+  linguagens = ['HTML', 'CSS', 'JavaScript', 'SQL', 'Json', 'Docker', 'PHP', 'Dart' ];
+  ferramentas = ['React', 'Redux', 'MySQL', 'Node.js', 'Flutter', 'Xampp'];
+  framework = ['Express', 'Laravel']
 }
 ```
 
