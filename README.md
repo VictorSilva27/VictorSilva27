@@ -12,17 +12,17 @@ class SobreMim extends DesenvolvedorWeb {
   let idade = '18 Anos'
   let local = 'Botucatu, SP';
   
-  const apresentar = `Eu sou ${nome}, tenho ${idade} e atualmente moro na cidade de ${local}.`;
-  
-  return apresentar;
-}
+  return `Eu sou ${nome}, tenho ${idade} e atualmente moro na cidade de ${local}.`;
+};
 
 class HardSkills extends DesenvolvedorWeb {
   let linguagens = ['HTML', 'CSS', 'JavaScript', 'SQL', 'Json', 'Java', 'PHP', 'Dart' ];
   let ferramentas = ['Redux', 'MySQL', 'Node', 'Xampp', 'Docker'];
   let framework = ['Express', 'Laravel', 'Flutter', 'React'];
   let appEdit = ['Visual Studio Code', 'Android Studio', 'Eclipse'];
-}
+  
+  return 'Dev FullStack';
+};
 ```
 
 <div align="center">
