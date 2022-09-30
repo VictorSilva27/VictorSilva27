@@ -19,8 +19,8 @@ class SobreMim extends DesenvolvedorWeb {
 
 class HardSkills extends DesenvolvedorWeb {
   let linguagens = ['HTML', 'CSS', 'JavaScript', 'SQL', 'Json', 'Java', 'PHP', 'Dart' ];
-  let ferramentas = ['React', 'Redux', 'MySQL', 'Node', 'Flutter', 'Xampp', 'Docker'];
-  let framework = ['Express', 'Laravel'];
+  let ferramentas = ['Redux', 'MySQL', 'Node', 'Xampp', 'Docker'];
+  let framework = ['Express', 'Laravel', 'Flutter', 'React'];
   let appEdit = ['Visual Studio Code', 'Android Studio', 'Eclipse'];
 }
 ```
