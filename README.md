@@ -12,7 +12,7 @@ class SobreMim extends DesenvolvedorWeb {
   private idade = '18 Anos'
   private local = 'Botucatu, SP';
   
-  return `Eu sou ${nome}, tenho ${idade} e atualmente moro na cidade de ${local}.`;
+  return `Eu sou ${nome}, tenho ${idade} e atualmente, estou morando na cidade de ${local}.`;
 };
 
 class HardSkills extends DesenvolvedorWeb {
