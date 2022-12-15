@@ -16,10 +16,9 @@ class SobreMim extends DesenvolvedorWeb {
 };
 
 class HardSkills extends DesenvolvedorWeb {
-  let linguagens = ['HTML', 'CSS', 'JavaScript', 'SQL', 'Json', 'Java', 'PHP', 'Dart', 'TypeScript' ];
-  let ferramentas = ['Redux', 'MySQL', 'Node', 'Xampp', 'Docker', 'JWT'];
-  let framework = ['Express', 'Laravel', 'Flutter', 'React'];
-  let appEdit = ['Visual Studio Code', 'Android Studio', 'Eclipse'];
+  let languages = ['HTML', 'CSS', 'JavaScript', 'SQL', 'Json', 'Java', 'PHP', 'Dart', 'TypeScript', 'NoSQL' ];
+  let tools = ['Redux', 'MySQL', 'NodeJS', 'Xampp', 'Docker', 'JWT', 'Jest', 'RTL', 'MongoDB', 'Express', 'Laravel', 'Flutter', 'React'];
+  let codeEdit = ['Visual Studio Code', 'Android Studio', 'Eclipse'];
   
   return 'Dev FullStack';
 };
