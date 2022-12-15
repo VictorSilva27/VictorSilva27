@@ -8,17 +8,17 @@
 import DesenvolvedorWeb from 'Vitinho';
 
 class SobreMim extends DesenvolvedorWeb {
-  const nome = 'Victor Silva';
-  let idade = '18 Anos'
-  let local = 'Botucatu, SP';
+  private nome = 'Victor Silva';
+  private idade = '18 Anos'
+  private local = 'Botucatu, SP';
   
   return `Eu sou ${nome}, tenho ${idade} e atualmente moro na cidade de ${local}.`;
 };
 
 class HardSkills extends DesenvolvedorWeb {
-  let languages = ['HTML', 'CSS', 'JavaScript', 'SQL', 'Json', 'Java', 'PHP', 'Dart', 'TypeScript', 'NoSQL' ];
-  let tools = ['Redux', 'MySQL', 'NodeJS', 'Xampp', 'Docker', 'JWT', 'Jest', 'RTL', 'MongoDB', 'Express', 'Laravel', 'Flutter', 'React'];
-  let codeEdit = ['Visual Studio Code', 'Android Studio', 'Eclipse'];
+  public languages = ['HTML', 'CSS', 'JavaScript', 'SQL', 'Json', 'Java', 'PHP', 'Dart', 'TypeScript', 'NoSQL' ];
+  public tools = ['Redux', 'MySQL', 'NodeJS', 'Xampp', 'Docker', 'JWT', 'Jest', 'RTL', 'MongoDB', 'Express', 'Laravel', 'Flutter', 'React'];
+  public codeEdit = ['Visual Studio Code', 'Android Studio', 'Eclipse'];
   
   return 'Dev FullStack';
 };
