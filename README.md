@@ -7,12 +7,12 @@
 ```js
 import DesenvolvedorWeb from 'Vitinho';
 
-class SobreMim extends DesenvolvedorWeb {
+class SobreMim extends DesenvolvedorSoftware {
   private nome = 'Victor Silva';
   private idade = '20 Anos'
   private local = 'Botucatu, SP';
   
-  return `Eu sou ${nome}, tenho ${idade} e atualmente, estou morando na cidade de ${local}.`;
+  return `Eu sou ${nome}, tenho ${idade} e atualmente, estou morando na cidade de ${local}. Tenho experiência em desenvolver aplicações para celular e sites`;
 };
 
 class HardSkills extends DesenvolvedorWeb {
