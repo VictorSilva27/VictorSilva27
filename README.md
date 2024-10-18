@@ -9,15 +9,15 @@ import DesenvolvedorWeb from 'Vitinho';
 
 class SobreMim extends DesenvolvedorWeb {
   private nome = 'Victor Silva';
-  private idade = '18 Anos'
+  private idade = '20 Anos'
   private local = 'Botucatu, SP';
   
   return `Eu sou ${nome}, tenho ${idade} e atualmente, estou morando na cidade de ${local}.`;
 };
 
 class HardSkills extends DesenvolvedorWeb {
-  public languages = ['HTML', 'CSS', 'JavaScript', 'SQL', 'Json', 'Java', 'PHP', 'Dart', 'TypeScript', 'NoSQL' ];
-  public tools = ['Redux', 'MySQL', 'NodeJS', 'Xampp', 'Docker', 'JWT', 'Jest', 'RTL', 'MongoDB', 'Express', 'Laravel', 'Flutter', 'React'];
+  public languages = ['HTML', 'CSS', 'JavaScript', 'SQL', 'Json', 'Java', 'PHP', 'Dart', 'TypeScript', 'NoSQL', 'Kotlin'];
+  public tools = ['Redux', 'MySQL', 'NodeJS', 'Xampp', 'Docker', 'JWT', 'Jest', 'RTL', 'MongoDB', 'Express', 'Laravel', 'Flutter', 'React', 'React Native'];
   public codeEdit = ['Visual Studio Code', 'Android Studio', 'Eclipse'];
   
   return 'Dev FullStack';
