@@ -9,7 +9,7 @@ import DesenvolvedorWeb from 'Vitinho';
 
 class SobreMim extends DesenvolvedorSoftware {
   private nome = 'Victor Silva';
-  private idade = '20 Anos'
+  private idade = '21 Anos'
   private local = 'Botucatu, SP';
   
   return `Eu sou ${nome}, tenho ${idade} e atualmente, estou morando na cidade de ${local}. Tenho experiência em desenvolver aplicações para celular e sites`;
@@ -17,7 +17,8 @@ class SobreMim extends DesenvolvedorSoftware {
 
 class HardSkills extends DesenvolvedorWeb {
   public languages = ['HTML', 'CSS', 'JavaScript', 'SQL', 'Json', 'Java', 'PHP', 'Dart', 'TypeScript', 'NoSQL', 'Kotlin'];
-  public tools = ['Redux', 'MySQL', 'NodeJS', 'Xampp', 'Docker', 'JWT', 'Jest', 'RTL', 'MongoDB', 'Express', 'Laravel', 'Flutter', 'React', 'React Native'];
+  public tools = ['Redux', 'MySQL', 'NodeJS', 'Xampp', 'Docker', 'JWT', 'Jest', 'RTL', 'MongoDB', 'Chakra UI', 'Tailwild CSS'];
+  public framework = ['Express', 'Laravel', 'Flutter', 'ReactJs', 'React Native', 'NextJs', 'JetPackCompose'];
   public codeEdit = ['Visual Studio Code', 'Android Studio', 'Eclipse'];
   
   return 'Dev FullStack';
@@ -39,14 +40,14 @@ import WebDeveloper from 'Vitinho';
 
 class AboutMe extends WebDeveloper {
   const name = 'Victor Silva';
-  let age = '18 Anos'
+  let age = '21 Anos'
   let location = 'Botucatu, SP';
   
   return `I'm ${name}, I'm ${age}, and I currently live in the city of ${location}.`;
 };
 
 class HardSkills extends WebDeveloper {
-  let programmingLanguages = ['HTML', 'CSS', 'JavaScript', 'SQL', 'Json', 'Java', 'PHP', 'Dart' ];
+  let programmingLanguages = ['HTML', 'CSS', 'JavaScript', 'SQL', 'Json', 'Java', 'PHP', 'Dart', 'TypeScript', 'NoSQL', 'Kotlin'];
   let tools = ['Redux', 'MySQL', 'Node', 'Xampp', 'Docker'];
   let framework = ['Express', 'Laravel', 'Flutter', 'React'];
   let appEdit = ['Visual Studio Code', 'Android Studio', 'Eclipse'];
