@@ -9,7 +9,7 @@ import DesenvolvedorWeb from 'Vitinho';
 
 class SobreMim extends DesenvolvedorSoftware {
   private nome = 'Victor Silva';
-  private idade = '21 Anos'
+  private idade = '21 Anos';
   private local = 'Botucatu, SP';
   
   return `Eu sou ${nome}, tenho ${idade} e atualmente, estou morando na cidade de ${local}. Tenho experiência em desenvolver aplicações para celular e sites`;
