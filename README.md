@@ -1,85 +1,67 @@
-# Olá, eu sou Victor Silva 😎
+# Victor Silva  
+**Mobile & Frontend Engineer**
 
-<p align="center" >
-  <img src="perfil.jpeg" width="150px" />
-</p>
+Software engineer specialized in building complex mobile and web applications.  
+Experience delivering products across fintech, marketplaces, blockchain systems, AI-powered platforms and data-driven dashboards.
 
-```js
-import DesenvolvedorWeb from 'Vitinho';
+I focus on building scalable, production-ready applications with strong UX, clean architecture and reliable data flows.
 
-class SobreMim extends DesenvolvedorSoftware {
-  private nome = 'Victor Silva';
-  private idade = '21 Anos';
-  private local = 'Botucatu, SP';
-  
-  return `Eu sou ${nome}, tenho ${idade} e atualmente, estou morando na cidade de ${local}. Tenho experiência em desenvolver aplicações para celular e sites`;
-};
+---
 
-class HardSkills extends DesenvolvedorWeb {
-  public languages = ['HTML', 'CSS', 'JavaScript', 'SQL', 'Json', 'Java', 'PHP', 'Dart', 'TypeScript', 'NoSQL', 'Kotlin'];
-  public tools = ['Redux', 'MySQL', 'NodeJS', 'Xampp', 'Docker', 'JWT', 'Jest', 'RTL', 'MongoDB', 'Chakra UI', 'Tailwild CSS'];
-  public framework = ['Express', 'Laravel', 'Flutter', 'ReactJs', 'React Native', 'NextJs', 'JetPackCompose'];
-  public codeEdit = ['Visual Studio Code', 'Android Studio', 'Eclipse'];
-  
-  return 'Dev FullStack';
-};
-```
- 
-<!--
+## What I do
 
---------------------------- English ------------------------- 
+- Build **mobile applications** using Flutter and React Native  
+- Build **frontend platforms** using React, Vue and TypeScript  
+- Integrate **APIs, authentication, real-time data and analytics**  
+- Design **state management and scalable UI architectures**  
+- Work on **real-world products** used in finance, agritech, education, blockchain and AI
 
- # Hi, I'm Victor Silva 😎
+---
 
-<p align="center" >
-  <img src="perfil.jpeg" width="150px" />
-</p>
+## Selected Experience
 
-```js
-import WebDeveloper from 'Vitinho';
+- **Digital Banking Platform**  
+  Mobile application with authentication, transactions and financial workflows.
 
-class AboutMe extends WebDeveloper {
-  const name = 'Victor Silva';
-  let age = '21 Anos'
-  let location = 'Botucatu, SP';
-  
-  return `I'm ${name}, I'm ${age}, and I currently live in the city of ${location}.`;
-};
+- **Blockchain Certificate System**  
+  Platform for issuing and validating digital certificates using on-chain and off-chain architecture.
 
-class HardSkills extends WebDeveloper {
-  let programmingLanguages = ['HTML', 'CSS', 'JavaScript', 'SQL', 'Json', 'Java', 'PHP', 'Dart', 'TypeScript', 'NoSQL', 'Kotlin'];
-  let tools = ['Redux', 'MySQL', 'Node', 'Xampp', 'Docker'];
-  let framework = ['Express', 'Laravel', 'Flutter', 'React'];
-  let appEdit = ['Visual Studio Code', 'Android Studio', 'Eclipse'];
-  
-  return 'Dev FullStack';
-};
-```
+- **Marketplace Application**  
+  Mobile platform with product catalog, cart, orders and seller management.
 
-<div align="center">
-  <a href="https://github.com/VictorSilva27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorSilva27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSilva27&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+- **Agrotech Platform with AI**  
+  System for cattle traceability, dashboards and AI-powered chat for farm management.
 
-  ## Contact
-  
-  <div> 
-   
-  <p align="center">
-  <a href="mailto:victoradaosilva2@gmail.com" alt="Gmail" >
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
- 
-  <a href="https://www.linkedin.com/in/victor-silva-52b085213/" alt="Linkedin" >
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+- **Educational Platforms**  
+  Interactive mobile applications focused on accessibility and user engagement.
 
-  <a href="https://instagram.com/_victor.a.s" alt="Instagram" >
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>
+*(Projects developed under private contracts and NDAs)*
 
-  ![Snake animation](https://github.com/VictorSilva27/VictorSilva27/blob/output/github-contribution-grid-snake.svg)
+---
 
- </div>
- 
- -->
- 
+## Tech Stack
+
+**Mobile & Frontend**  
+Flutter, React, React Native, Vue, TypeScript  
+
+**Backend & APIs**  
+Node.js, REST APIs, Firebase  
+
+**Architecture & Tools**  
+State management, authentication, real-time data, analytics, Docker, Git
+
+---
+
+## How I work
+
+I build software with a product mindset:
+- Focus on **user experience and business impact**
+- Write **maintainable, scalable code**
+- Think in terms of **systems, not just screens**
+
+---
+
+## Contact
+
+- Email: victoradaosilva2@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/victor-silva-52b085213/
