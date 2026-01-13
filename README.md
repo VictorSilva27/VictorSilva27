@@ -64,4 +64,4 @@ I build software with a product mindset:
 ## Contact
 
 - Email: victoradaosilva2@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/victor-silva-52b085213/
+- LinkedIn: [https://www.linkedin.com/in/victor-silva027/](https://www.linkedin.com/in/victor-silva027/)
