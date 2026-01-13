@@ -52,6 +52,21 @@ State management, authentication, real-time data, analytics, Docker, Git
 
 ---
 
+## 🚀 Mobile Delivery & CI/CD
+
+I have experience delivering mobile applications from development to production, including:
+
+- Android deployment via **Google Play Console** (AAB, internal testing, staged rollout)
+- iOS deployment via **App Store Connect** (TestFlight, certificates, provisioning profiles)
+- Automated **CI/CD pipelines** using:
+  - **Fastlane**
+  - **GitHub Actions**
+- Build, signing and versioning automation for multi-environment apps (dev, staging, production)
+
+This allows me to ship releases faster, reduce human errors and maintain consistent delivery across iOS and Android.
+
+---
+
 ## How I work
 
 I build software with a product mindset:
